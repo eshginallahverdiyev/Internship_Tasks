@@ -67,7 +67,7 @@ Top source IPs:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/netsniff.git
+git clone https://github.com/eshginallahverdiyev/netsniff.git
 cd netsniff
 
 # 2. (Recommended) create a virtual environment
